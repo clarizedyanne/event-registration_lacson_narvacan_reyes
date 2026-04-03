@@ -6,14 +6,14 @@ Built for **ITEL 203 – Web Systems and Technologies | Group Performance Task #
 
 ---
 
-## 👥 Members
+## Members
 - Clarize Dyanne R. Reyes – Project Lead / Backend Developer
 - Lea Chelsy K. Narvacan – Frontend Developer / UI Designer
 - Jennifer P. Lacson – Deployment & Documentation
 
 ---
 
-## ✨ Features
+## Features
 - Admin Login System
 - Create, Read, Update, Delete (CRUD) registrations
 - Manage concert events
@@ -23,7 +23,7 @@ Built for **ITEL 203 – Web Systems and Technologies | Group Performance Task #
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - PHP (mysql)
 - MySQL / phpMyAdmin / XAMPP
 - HTML5, CSS3, Bootstrap 5
@@ -33,7 +33,7 @@ Built for **ITEL 203 – Web Systems and Technologies | Group Performance Task #
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 1. Install XAMPP and start Apache + MySQL
 2. Copy the project folder to `C:\xampp\htdocs\ITEL 203 - Laboratory Activity 5 (Groupings)`
 3. Go to `http://localhost/phpmyadmin`
@@ -44,12 +44,12 @@ Built for **ITEL 203 – Web Systems and Technologies | Group Performance Task #
 
 ---
 
-## 🌐 Deployment Link
+## Deployment Link
 > https://svtevents-lacson-narvacan-reyes.ct.ws
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 seventeen-crud/
 ├── config.php          # Database connection + session
